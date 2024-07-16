@@ -6,3 +6,5 @@ Imformation flow in organization by taking care of following departments:
 *Attendance
 *Faculty information portal
 *Student information portal 
+
+![ums](https://github.com/user-attachments/assets/b98ddb78-1a50-4437-936f-960d9aa4519c)
